@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+int main ()
+{
+char c;
+if char is vowel;
+printf "the letter is vowel"};
+  elsc
+  printf {"the letter is not vowel"};
+  getch ();
+  return 0;
+  }
